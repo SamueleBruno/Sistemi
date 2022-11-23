@@ -1,0 +1,15 @@
+# while condizione : 
+# codice
+
+# istruzioni di controllo
+# break: esce dal primo ciclo che si trova alle spalle
+# continue: quando viene chiamata in un ciclo salta un giro
+
+# la prima istruzione di un programma che comanda un robot è "while true:"
+
+# come si definisce una funzione 
+# def nomefunzione(parametri):
+    # codice indentato
+
+# in python posso fare il return di tutte le variabili che voglio
+# x, y = funzione(p1, p2)
